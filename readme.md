@@ -5,7 +5,7 @@ This add-in generates bevel gears for use with Autodesk Fusion. Bevel gears can 
 <a href="https://www.buymeacoffee.com/gear2nddrow"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=gear2nddrow&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 [Paypal.me](https://www.paypal.com/paypalme/geekgear)
 
-[![MultiSpurGear]([https://user-images.githubusercontent.com/1283295/216289217-90b0026d-43ef-4732-9f10-034f8cb6e6db.png)](https://github.com/gear2nd-droid/BevelGear/assets/1283295/21af9479-fea6-4f90-b734-d5d004b964d6)](https://www.youtube.com/watch?v=7V13uKEnZKA)
+[![BevelGear](https://github.com/gear2nd-droid/BevelGear/assets/1283295/21af9479-fea6-4f90-b734-d5d004b964d6)](https://www.youtube.com/watch?v=7V13uKEnZKA)
 
 # Description
 Most bevel gears intersect at 90degrees and have a limited tooth ratio.
